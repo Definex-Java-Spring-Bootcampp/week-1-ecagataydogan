@@ -1,4 +1,4 @@
-package manager;
+package onlineshopping.manager;
 
 import model.Bill;
 import model.Customer;

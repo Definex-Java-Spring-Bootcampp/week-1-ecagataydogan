@@ -1,9 +1,10 @@
 import enums.Category;
-import manager.OnlineShoppingManager;
+
 import model.Customer;
 import model.Order;
 import model.OrderedProduct;
 import model.Product;
+import onlineshopping.manager.OnlineShoppingManager;
 
 
 import java.math.BigDecimal;
